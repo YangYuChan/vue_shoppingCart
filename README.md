@@ -1,6 +1,8 @@
 # shopping-cart
 
-> A Vue.js project
+> 基于vue2.x + webpack2.x + axios + vue-router实现的一个简单的购物车功能 Edit
+Add topics
+
 
 ## Build Setup
 
